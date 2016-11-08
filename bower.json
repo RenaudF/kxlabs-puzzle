@@ -1,0 +1,18 @@
+{
+  "name": "KxLabs",
+  "version": "0.0.0",
+  "authors": [
+    "Renaud Fontana <sirgzu@hotmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "modulejs": "http://github.com/renaudf/modulejs.git"
+  }
+}
